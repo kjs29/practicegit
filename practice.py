@@ -3,4 +3,4 @@ print(range(1,11)[:])
 
 a="hello motto"
 
-print(a.split())
+print(a.split())asda
