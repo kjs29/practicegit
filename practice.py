@@ -1,6 +1,5 @@
-print(range(1,11)[:])
+print(f"hello motto")
 
-
-a="hello motto"
-
-print(a.split())asda
+ranstr = "What makes a good programmer?"
+a = ranstr.split()
+print(f"a : {a}")
