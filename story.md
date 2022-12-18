@@ -1,9 +1,6 @@
-Once upon a time, there was a boy named Jin
+hello this is a story about Jin.
 
-He was average, shy boy.
+Jin was such a shy boy.
 
 He was always worried about how other people look at him.
 
-But he used this worried energy to better himself.
-
-He tried to make friends and people started to like him.
