@@ -11,3 +11,5 @@ First he tried to figure out what he is worried about, why he thinks that he sho
 Some were just created only in his brain. Some turned out that the problems lied within himself.
 
 He tried to make friends and people started to like him.
+
+He is a self taught programmer.
