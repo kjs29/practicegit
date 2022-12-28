@@ -13,3 +13,5 @@ Some were just created only in his brain. Some turned out that the problems lied
 He tried to make friends and people started to like him.
 
 He is a self taught programmer.
+
+the real change from macbookpro
